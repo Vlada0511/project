@@ -1,0 +1,26 @@
+body {
+  background-color:#FDFEE0;
+}
+
+h1 {
+  color: #CE2928;
+  font-size: 18px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+p {
+  font-size: small;
+}
+
+.accent {
+  font-style: italic;
+}
+
+.style {
+  font-style: italic;
+}
